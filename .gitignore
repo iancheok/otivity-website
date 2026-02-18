@@ -1,3 +1,11 @@
+# Ignore System Files (Noise)
 .DS_Store
-node_modules/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore VS Code Settings (Personal Preference)
 .vscode/
+
+# Ignore Logs
+*.log
